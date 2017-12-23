@@ -154,9 +154,4 @@ for (( i=0 ; i<=$countRows-1; i++ )); do
 done
 
 #======================================================================
-# Copy/SFTP to FTP server
-# Need to setup security key so no password prompt
-#scp $CSVFileName sftpuser@sftphost:/path
-
-#======================================================================
 exit 0
