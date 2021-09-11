@@ -9,7 +9,7 @@
 # CONSTANT values
 accountId="12345678901234"
 apiSettingId="9876543210998"
-apiKey="QvsxzDZCJfGURHOAyhFdsddwqsss2222222Q6m/nesZIZ0a/9qWGGw=="
+apiKey="1111111111111111111111111111111111111111111111111w=="
 
 # Generate epoch value = seconds from Jan-01, 1970 using built-in Unix's date function
 # By default, it does not include milliseconds so we add "000". BoldChat API is fine with "000" for milli-seconds
